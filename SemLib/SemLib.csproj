@@ -7,11 +7,11 @@
     <PackageOutputPath>./bin</PackageOutputPath>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Authors>Vamsi TP</Authors>
-    <Title>SemLib</Title>
+    <PackageId>SemLib</PackageId>
     <PackageDescription>Semantic library to extract Keywords - with due credit to https://www.tsjensen.com/blog/post/2010/03/14/Keyword+Extraction+In+C+With+Word+Cooccurrence+Algorithm</PackageDescription>
-    <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <PackageProjectUrl>https://github.com/vamsitp/SemanticLibrary</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/vamsitp/SemanticLibrary</RepositoryUrl>
+    <PackageLicenseExpression>Unlicense</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/vamsitp/SemLib</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/vamsitp/SemLib</RepositoryUrl>
     <PackageTags>Semantic;Text;Keywords;Phrases;Extract</PackageTags>
     <Company>Microsoft</Company>
     <Version>1.0.0</Version>
