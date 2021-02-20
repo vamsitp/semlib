@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+    <WarningsAsErrors />
+    <LangVersion>preview</LangVersion>
+    <PackageOutputPath>./bin</PackageOutputPath>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Vamsi TP</Authors>
+    <Title>SemLib</Title>
+    <PackageDescription>Semantic library to extract Keywords - with due credit to https://www.tsjensen.com/blog/post/2010/03/14/Keyword+Extraction+In+C+With+Word+Cooccurrence+Algorithm</PackageDescription>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/vamsitp/SemanticLibrary</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/vamsitp/SemanticLibrary</RepositoryUrl>
+    <PackageTags>Semantic;Text;Keywords;Phrases;Extract</PackageTags>
+    <Company>Microsoft</Company>
+    <Version>1.0.0</Version>
+    <PublishRepositoryUrl>true</PublishRepositoryUrl>
+    <IncludeSymbols>true</IncludeSymbols>
+    <SymbolPackageFormat>snupkg</SymbolPackageFormat>
+    <EnableNETAnalyzers>true</EnableNETAnalyzers>
+  </PropertyGroup>
+</Project>
